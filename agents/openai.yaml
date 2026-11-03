@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用PPT制作"
+  short_description: "适用于汇报、教学、产品、技术与故事演讲，先预览风格再制作可编辑PPT"
+  default_prompt: "使用 $enterprise-data-ppt，围绕我的主题和资料制作PPT，按用途组织内容，先确认页数、首尾页、图标及右上角标识，再选择风格生成预览，选定后输出可编辑的正式PPTX。"
